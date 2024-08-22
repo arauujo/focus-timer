@@ -1,4 +1,7 @@
+![focus-timer](https://github.com/user-attachments/assets/3b07b70d-828f-4c13-8c56-9047503cc03d)
+
 ## 🖥️ Projeto
+
 
 O FocusTimer é um temporizador baseado na técnica Pomodoro, para aumentar a produtividade e o foco. O projeto foi desenvolvido durante o Stage 05 do curso Explorer da Rocketseat.
 
